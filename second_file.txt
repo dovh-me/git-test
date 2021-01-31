@@ -1,3 +1,0 @@
-This is the second file
-
-Change made to second_file.txt
